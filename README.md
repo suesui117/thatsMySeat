@@ -1,3 +1,4 @@
+
 <p align="center">
-  <img src="https://imgur.com/a/4zSY14V" width="400" alt="Wireframe">
+  <img src="https://i.imgur.com/CwQWMh4.png" width="400" alt="Wireframe">
 </p>
