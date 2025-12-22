@@ -1,6 +1,3 @@
 <p align="center">
-
-![Demo](https://i.imgur.com/kbSWUBS.gif)
-
+  <img src="i.imgur.com/kbSWUBS.gif" width="400" />
 </p>
-
